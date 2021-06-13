@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm [Febrian](https://www.instagram.com/febrian.2001/)
+## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febriandev&layout=compact&theme=dark)](https://github.com/febriandev/) [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=febriandev&count_private=true&show_icons=true&theme=dark)](https://github.com/febriandev/)
+
+
 
 <!--
 **FebrianDev/febriandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
